@@ -9,7 +9,6 @@ AudioPlayer theme, coin, bump, gameover;
 
 PImage link, mario, selectedImage;
 
-
 int mode;
 final int INTRO = 0;
 final int GAME = 1;
@@ -23,7 +22,6 @@ float vx, vy;
 int score, highscore, lives;
 
 float difficultySlider = 5;
-
 
 void setup() {
   size(800, 800);
