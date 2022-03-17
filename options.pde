@@ -14,7 +14,6 @@ void options() {
     if (mousePressed) {
       difficultySlider = map(mouseX, 200, 600, 1, 20);
     }
-
     sliderHover = 4;
   }
 
